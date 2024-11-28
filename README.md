@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Hello World Animado](https://ninja1375.github.io/Hello-world-animado/)**
+
 Este é um projeto front-end desenvolvido com HTML, CSS e JavaScript, que apresenta uma animação moderna e visualmente atraente do texto "**Hello World**". A animação combina efeitos visuais, transições suaves e interatividade para criar uma experiência imersiva. É ideal para desenvolvedores iniciantes e intermediários que desejam praticar ou demonstrar conceitos de animação na web.
 
 # Funcionalidades:
